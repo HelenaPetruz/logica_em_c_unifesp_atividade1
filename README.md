@@ -1,1 +1,1 @@
-# logica_em_c_unifesp_atividade1
+# LP: atividade 1 (linguagem c)
